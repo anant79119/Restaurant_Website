@@ -48,6 +48,7 @@ restaurant-website/
 	📷 Screenshots
 
  
-![websites ](https://github.com/user-attachments/assets/7a679b63-c8fa-4b6c-a187-9aaf33e4d41f)
+![image](https://github.com/user-attachments/assets/cce029b9-6aac-4a87-83f3-671511a8b599)
 
-![image](https://github.com/user-attachments/assets/b490f6df-218a-4e86-ad1c-eeb1e2bce836)
+![image](https://github.com/user-attachments/assets/c22fe2bc-4fc5-4018-88d6-0bfce444bcd2)
+
